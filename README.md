@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi there, I'm [Abdul Rehman]! 👋
+  # Hi there, I'm Abdrehman! 👋
   
   ### 🚀 Student Developer | 🤖 ML & AI Enthusiast
 
@@ -15,9 +15,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a student actively learning and building projects in **Machine Learning** and **Artificial Intelligence**.
-- 💡 I love turning data into actionable insights and experimenting with new neural network architectures.
+- 💡 I love turning data into actionable insights and experimenting with neural networks.
 - 🌱 Currently deep-diving into **Data Science** libraries and algorithmic optimization.
-- 🤝 I'm open to collaborating on open-source ML projects or hackathons!
+- 🤝 I'm open to collaborating on open-source ML projects or hackathons.
+- 📫 How to reach me: **[Insert your email or LinkedIn link here]**
 
 ---
 
@@ -43,27 +44,15 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2C2D72&icon_color=2C2D72&text_color=333333" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=2C2D72&text_color=333333&ring=2C2D72&fire=2C2D72" alt="GitHub Streak" width="48%" />
-</div>
-
----
-
-### 🐍 Contribution Graph Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdrehmancs&show_icons=true&theme=transparent&hide_border=true&title_color=2C2D72&icon_color=2C2D72&text_color=333333" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdrehmancs&theme=transparent&hide_border=true&title_color=2C2D72&text_color=333333&ring=2C2D72&fire=2C2D72" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
 
 <div align="center">
-  <i>Let's connect and build something awesome together!</i>
+  <i>Thanks for stopping by! Let's connect and build something awesome together.</i>
 </div>
