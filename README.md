@@ -53,6 +53,27 @@
 
 ---
 
+## 🕸️ Spider-Web Radar (Spider-Sense Analytics)
+
+<div align="center">
+  <img src="./assets/spider-radar.svg" width="92%" alt="Spider Web Radar showing skill signals" />
+</div>
+
+<div align="center">
+
+| Signal Node | Power Level |
+|---|---:|
+| 🤖 ML/AI | 88 |
+| 🐍 Python | 92 |
+| 📊 Data Science | 84 |
+| ⚙️ C++ | 76 |
+| 🌍 Open Source | 70 |
+| 🧩 Problem Solving | 90 |
+
+</div>
+
+> _“The web never lies — it only reveals where to swing next.”_
+
 <div align="center">
   <i>Thanks for stopping by! Let's connect and build something awesome together.</i>
 </div>
