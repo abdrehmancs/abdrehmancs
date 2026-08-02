@@ -11,8 +11,8 @@
 </p>
 
 <img src="https://img.shields.io/badge/STATUS-🕷️%20Spider%20Mode%20Activated-red?style=for-the-badge&labelColor=111827" />
-<img src="https://komarev.com/ghpvc/?username=AbdulRehman597&style=for-the-badge&color=red" />
-<img src="https://img.shields.io/github/followers/AbdulRehman597?style=for-the-badge&color=red&labelColor=111827" />
+<img src="https://komarev.com/ghpvc/?username=abdulrehmancs&style=for-the-badge&color=red" />
+<img src="https://img.shields.io/github/followers/abdulrehmancs?style=for-the-badge&color=red&labelColor=111827" />
 
 </div>
 
@@ -61,12 +61,12 @@ Alias: The Web-Slinger of Machine Learning
 ## 🕷️ WEB OF STATS
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman597&show_icons=true&theme=radical&hide_border=true&border_radius=12&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman597&theme=radical&hide_border=true&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulrehmancs&show_icons=true&theme=radical&hide_border=true&border_radius=12&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehmancs&theme=radical&hide_border=true&border_radius=12" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman597&layout=compact&theme=radical&hide_border=true&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmancs&layout=compact&theme=radical&hide_border=true&border_radius=12" />
 </div>
 
 ---
@@ -74,17 +74,29 @@ Alias: The Web-Slinger of Machine Learning
 ## 🕸️ SPIDER-VERSE ACTIVITY GRAPH
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman597&bg_color=0f172a&color=ffffff&line=ef4444&point=facc15&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrehmancs&bg_color=0f172a&color=ffffff&line=ef4444&point=facc15&area=true&hide_border=true" width="95%" />
+</div>
+
+---
+
+## 🕸️ Spider-Web Radar (Spider-Sense Analytics)
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/abdulrehmancs/abdulrehmancs/main/assets/spider-radar-static.svg"
+    width="100%"
+    alt="Spider Web Radar showing skill signals"
+  />
 </div>
 
 ---
 
 ## 🧪 DAILY MISSION BOARD
 
-- [ ] Train and compare 2 new ML models  
-- [ ] Push 1 meaningful commit daily  
-- [ ] Contribute to 1 open-source issue weekly  
-- [ ] Build 1 mini AI project per month  
+- [ ] Train and compare 2 new ML models
+- [ ] Push 1 meaningful commit daily
+- [ ] Contribute to 1 open-source issue weekly
+- [ ] Build 1 mini AI project per month
 - [ ] Keep code quality > chaos level 🕷️
 
 ---
@@ -92,7 +104,7 @@ Alias: The Web-Slinger of Machine Learning
 ## 🏆 TROPHY WALL
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRehman597&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulrehmancs&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </div>
 
 ---
@@ -124,15 +136,3 @@ Alias: The Web-Slinger of Machine Learning
   <h3>🕷️ “In this repo, no bug escapes the web.”</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,2,2,24,20&section=footer" />
 </div>
-
-## 🕸️ Spider-Web Radar (Spider-Sense Analytics)
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/abdulrehmancs/abdulrehmancs/main/assets/spider-radar.svg"
-    width="92%"
-    alt="Spider Web Radar showing skill signals"
-  />
-</div>
-
-
