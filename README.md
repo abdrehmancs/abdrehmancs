@@ -124,3 +124,15 @@ Alias: The Web-Slinger of Machine Learning
   <h3>🕷️ “In this repo, no bug escapes the web.”</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,2,2,24,20&section=footer" />
 </div>
+
+## 🕸️ Spider-Web Radar (Spider-Sense Analytics)
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/abdulrehmancs/abdulrehmancs/main/assets/spider-radar.svg"
+    width="92%"
+    alt="Spider Web Radar showing skill signals"
+  />
+</div>
+
+
