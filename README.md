@@ -65,6 +65,13 @@ graph TD
 
 </div>
 
+<div align="center">
+  <br/>
+  <img src="./assets/spider-radar.svg" width="70%" alt="Spider-sense skill radar"/>
+  <br/>
+  <sub>Hand-built SVG radar — no external service, lives at <code>assets/spider-radar.svg</code>, edit the numbers directly to update it.</sub>
+</div>
+
 <br/>
 
 ## 🛠️ Utility Belt (Tech Stack)
@@ -131,9 +138,9 @@ graph TD
 ## 🐍 The Symbiote (Contribution Snake)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abdulrehmancs/abdulrehmancs/output/github-contribution-grid-snake.svg" width="95%" alt="contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/abdulrehmancs/abdulrehmancs/output/github-contribution-grid-snake-dark.svg" width="95%" alt="contribution snake animation"/>
 
-  <sub>*Set this up via the `platane/snk` GitHub Action to render a snake eating your real contribution graph — swap the theme to red/black for a full symbiote look.*</sub>
+  <sub>*Rendered nightly by `.github/workflows/snake.yml` in this repo — eats your real contribution graph, red/black symbiote palette baked in.*</sub>
 </div>
 
 <br/>
