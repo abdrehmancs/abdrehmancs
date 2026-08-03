@@ -103,15 +103,10 @@ graph TD
 ## 🕸️ Web-Fluid Power Levels
 
 <div align="center">
-
-`Python     ` ![90%](https://progress-bar.dev/90/?width=300&color=e11d48&suffix=%25)
-`C++        ` ![70%](https://progress-bar.dev/70/?width=300&color=e11d48&suffix=%25)
-`ML / AI    ` ![85%](https://progress-bar.dev/85/?width=300&color=e11d48&suffix=%25)
-`Data Sci   ` ![80%](https://progress-bar.dev/80/?width=300&color=e11d48&suffix=%25)
-`Debugging  ` ![95%](https://progress-bar.dev/95/?width=300&color=e11d48&suffix=%25)
-
+  <img src="./assets/power-levels.svg" width="75%" alt="Web-fluid power levels"/>
+  <br/>
+  <sub>Self-hosted SVG — lives at <code>assets/power-levels.svg</code>, edit the bar widths/percent text directly to update it.</sub>
 </div>
-
 <br/>
 
 ## 🕷️ Web of Stats
