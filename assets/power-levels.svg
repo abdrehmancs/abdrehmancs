@@ -1,0 +1,93 @@
+<svg viewBox="0 0 600 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="30%" r="90%">
+      <stop offset="0%" stop-color="#161010"/>
+      <stop offset="55%" stop-color="#0a0707"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+
+    <linearGradient id="panelFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#e11d48" stop-opacity="0.04"/>
+    </linearGradient>
+
+    <linearGradient id="shine" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="barFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7f1d1d"/>
+      <stop offset="55%" stop-color="#e11d48"/>
+      <stop offset="100%" stop-color="#ff2d55"/>
+    </linearGradient>
+
+    <filter id="neon" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="b1"/>
+      <feGaussianBlur stdDeviation="8" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="ambientBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="35"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="600" height="320" rx="20" fill="url(#bg)"/>
+
+  <circle cx="80" cy="60" r="80" fill="#e11d48" opacity="0.20" filter="url(#ambientBlur)"/>
+  <circle cx="540" cy="280" r="100" fill="#f43f5e" opacity="0.15" filter="url(#ambientBlur)"/>
+
+  <rect x="30" y="60" width="540" height="235" rx="24" fill="url(#panelFill)" stroke="#f43f5e" stroke-opacity="0.35" stroke-width="1.2"/>
+  <rect x="31" y="61" width="538" height="233" rx="23" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+  <ellipse cx="300" cy="80" rx="230" ry="26" fill="url(#shine)"/>
+
+  <text x="300" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#f43f5e" letter-spacing="2" filter="url(#softGlow)">
+    🕸️ WEB-FLUID POWER LEVELS
+  </text>
+  <text x="300" y="51" text-anchor="middle" font-family="monospace" font-size="10.5" fill="#9ca3af" letter-spacing="1">
+    strength by discipline
+  </text>
+
+  <!-- Python 90% -->
+  <text x="55" y="102" font-family="monospace" font-size="13" fill="#f4f4f5" font-weight="bold">PYTHON</text>
+  <rect x="160" y="92" width="350" height="14" rx="7" fill="#ffffff" fill-opacity="0.06" stroke="#7f1d1d" stroke-width="1"/>
+  <rect x="160" y="92" width="315" height="14" rx="7" fill="url(#barFill)" filter="url(#neon)"/>
+  <text x="524" y="102" text-anchor="start" font-family="monospace" font-size="12" font-weight="bold" fill="#fb7185">90%</text>
+
+  <!-- C++ 70% -->
+  <text x="55" y="142" font-family="monospace" font-size="13" fill="#f4f4f5" font-weight="bold">C++</text>
+  <rect x="160" y="132" width="350" height="14" rx="7" fill="#ffffff" fill-opacity="0.06" stroke="#7f1d1d" stroke-width="1"/>
+  <rect x="160" y="132" width="245" height="14" rx="7" fill="url(#barFill)" filter="url(#neon)"/>
+  <text x="524" y="142" text-anchor="start" font-family="monospace" font-size="12" font-weight="bold" fill="#fb7185">70%</text>
+
+  <!-- ML / AI 85% -->
+  <text x="55" y="182" font-family="monospace" font-size="13" fill="#f4f4f5" font-weight="bold">ML / AI</text>
+  <rect x="160" y="172" width="350" height="14" rx="7" fill="#ffffff" fill-opacity="0.06" stroke="#7f1d1d" stroke-width="1"/>
+  <rect x="160" y="172" width="297.5" height="14" rx="7" fill="url(#barFill)" filter="url(#neon)"/>
+  <text x="524" y="182" text-anchor="start" font-family="monospace" font-size="12" font-weight="bold" fill="#fb7185">85%</text>
+
+  <!-- Data Science 80% -->
+  <text x="55" y="222" font-family="monospace" font-size="13" fill="#f4f4f5" font-weight="bold">DATA SCIENCE</text>
+  <rect x="160" y="212" width="350" height="14" rx="7" fill="#ffffff" fill-opacity="0.06" stroke="#7f1d1d" stroke-width="1"/>
+  <rect x="160" y="212" width="280" height="14" rx="7" fill="url(#barFill)" filter="url(#neon)"/>
+  <text x="524" y="222" text-anchor="start" font-family="monospace" font-size="12" font-weight="bold" fill="#fb7185">80%</text>
+
+  <!-- Debugging 95% -->
+  <text x="55" y="262" font-family="monospace" font-size="13" fill="#f4f4f5" font-weight="bold">DEBUGGING</text>
+  <rect x="160" y="252" width="350" height="14" rx="7" fill="#ffffff" fill-opacity="0.06" stroke="#7f1d1d" stroke-width="1"/>
+  <rect x="160" y="252" width="332.5" height="14" rx="7" fill="url(#barFill)" filter="url(#neon)"/>
+  <text x="524" y="262" text-anchor="start" font-family="monospace" font-size="12" font-weight="bold" fill="#fb7185">95%</text>
+</svg>
